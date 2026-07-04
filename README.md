@@ -4,7 +4,9 @@ HospitalityGPT is a domain-specific AI chatbot designed to assist customers with
 
 The chatbot was built by fine-tuning **TinyLlama-1.1B-Chat** using **LoRA (Low-Rank Adaptation)** and enhancing its responses using a semantic retrieval pipeline powered by **Sentence Transformers** and **FAISS**.
 
-<img width="2186" height="1140" alt="image" src="https://github.com/user-attachments/assets/30785568-2c8c-469d-bf8b-a38bbae0ffda" />
+<img width="2186" height="989" alt="image" src="https://github.com/user-attachments/assets/c23770bc-ffd9-4042-b997-28c34b9f0676" />
+
+Project Files: https://drive.google.com/drive/folders/1ejx_jQLdCdUtYMZNWbkkJi0V87QHtv2y?usp=sharing
 
 
 ---
