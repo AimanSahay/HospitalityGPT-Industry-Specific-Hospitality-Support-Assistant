@@ -147,10 +147,10 @@ The chatbot was evaluated using a representative sample from the held-out test d
 
 | Metric | Score |
 |---------|--------|
-| BLEU | **0.0928** |
-| ROUGE-1 | **0.2904** |
-| ROUGE-2 | **0.1384** |
-| ROUGE-L | **0.2297** |
+| BLEU | **0.2342** |
+| ROUGE-1 | **0.5330** |
+| ROUGE-2 | **0.2522** |
+| ROUGE-L | **0.4285** |
 
 Although BLEU is relatively low, this is expected for conversational AI because multiple valid responses may differ in wording while conveying the same meaning. The ROUGE scores indicate that the chatbot preserves important keywords and sentence structure while generating contextually relevant responses.
 
